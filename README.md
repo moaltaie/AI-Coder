@@ -1,6 +1,14 @@
 # AI-Coder
 <h4>A script that uses artificial intelligence to help programmers and hackers write some scripts or solve some problems they encounter.  It is important to read the README file that you will find attached alongside the script.</h4>
 <p>
+<h3>
+This text was created by individual effort, and it is my first work in this aspect of AI. I hope it helps you with something.
+When using AI, make your question simple and detailed to get a logical answer without problems.
+If you do not like the way it works or you encounter errors, you can modify it to develop it to a better level.
+By the way, the script provides answers and scripts related to penetration and other things without barriers or obstacles.
+enjoy it .
+</h3>
+<p>
 <p dir="auto"><strong>1. Download framework from github</strong><br>
 <code>git clone https://github.com/moaltaie/AI-Coder.git</code></p>
 
