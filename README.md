@@ -20,6 +20,8 @@ enjoy it .
 <code>cd AI-Coder</code><br>
 <code>pip install openai</code></p>
 <p>
+  <p>
+    <p>
 <code>*Add your API_KEY from openai</code><br>
 
 <p dir="auto"><strong>3. Run the tool</strong><br>
