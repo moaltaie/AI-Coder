@@ -1,5 +1,5 @@
 # AI-Coder
-<h4>A script that uses artificial intelligence to help programmers and hackers write some scripts or solve some problems they encounter.  It is important to read the README file that you will find attached alongside the script.</h4>
+<h4>A script that uses artificial intelligence to help programmers and hackers write some scripts or solve some problems they encounter.</h4>
 <p>
 <h7>
 This text was created by individual effort, and it is my first work in this aspect of AI. I hope it helps you with something.
