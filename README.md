@@ -18,8 +18,9 @@ enjoy it .
 
 <p dir="auto"><strong>2. Install dependencies</strong><br>
 <code>cd AI-Coder</code><br>
-<code>Add your API_KEY</code><br>
 <code>pip install openai</code></p>
+<p>
+<code>*Add your API_KEY from openai</code><br>
 
 <p dir="auto"><strong>3. Run the tool</strong><br>
 <code>python AI-Coder.py</code></p>
