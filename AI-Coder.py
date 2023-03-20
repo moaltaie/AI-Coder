@@ -8,7 +8,7 @@ import re
 #######################################
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Set the model engine to use
 model_engine = "code-davinci-002"
